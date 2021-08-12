@@ -1,11 +1,32 @@
-### Hello there 👋
+### Hello there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-I am Jitan Gupta, a full stack software developer based in Mumbai, specializing in building Web Applications, APIs using (ASP).NET Core, SQL and ANGULAR. 
+<a href="https://www.linkedin.com/in/jitangupta/">
+  <img align="left" alt="Jitan Gupta's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
 
-- ✍️ I love writing poetries with name RUHAN[(?)](# 'Poetic name ☺'), record them and publish them on [youtube](https://www.youtube.com/channel/UCNsS1mGuUOfpO043fGzpbZA/).
-- 📫 Connect and reach me on [LinkedIn](https://www.linkedin.com/in/jitangupta).
+<a href="https://twitter.com/jitanguptapage">
+  <img align="left" alt="Jitan Gupta's Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+</a>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jitangupta" alt="jitangupta" /> </p>
+![](https://visitor-badge.glitch.me/badge?page_id=jitangupta.jitangupta)
+
+<br />
+
+Hi, I am Jitan Gupta, a passionate self-taught full-stack engineer with an entrepreneurial spirit from India. 
+
+I am also an open-source enthusiast and a community believer. I have learnt a lot from the community and love sharing my knowledge whenever possible through writing articles.
+
+I love to write poetry sometimes. If you found me on stage and people are cheering Ruhan! Ruhan! Ruhan! Don't get confused, it's just my poetic name.
+
+- 💼 want to hire me on your team or need some technical consultant? do reach, [email](mailto:hi@jitangupta.com) :)
+- 💬 ask me about anything, i am happy to help;
+
+**languages and tools:**  
+
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/dotnet/dotnet.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png"></code>
 
 <p align="left">  
   <img src="https://github-readme-stats.vercel.app/api?username=jitangupta&show_icons=false" alt="jitangupta" />
