@@ -1,13 +1,26 @@
+### Hello there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+
+<a href="https://www.linkedin.com/in/jitangupta/">
+  <img align="left" alt="Jitan Gupta's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
+ 
 <a href="https://twitter.com/jitanguptapage">
   <img align="left" alt="Jitan Gupta's Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
+
 ![](https://visitor-badge.glitch.me/badge?page_id=jitangupta.jitangupta)
+
 <br />
-Hi, I am Jitan Gupta, a passionate self-taught full-stack engineer with an entrepreneurial spirit from India. 
+
+Hi, I am Jitan Gupta, a passionate self-taught full-stack engineer with an entrepreneurial spirit from India.
+
 I am also an open-source enthusiast and a community believer. I have learnt a lot from the community and love sharing my knowledge whenever possible through writing articles.
+
 I love to write poetry sometimes. If you found me on stage and people are cheering Ruhan! Ruhan! Ruhan! Don't get confused, it's just my poetic name.
+
 - 💼 want to hire me on your team or need some technical consultant? do reach, [email](mailto:hi@jitangupta.com) :)
 - 💬 ask me about anything, i am happy to help;
+
 **languages and tools:**  
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/dotnet/dotnet.png"></code>
