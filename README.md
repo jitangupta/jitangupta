@@ -12,7 +12,7 @@
 
 <br />
 
-Hi, I am Jitan Gupta, a passionate self-taught full-stack engineer with an entrepreneurial spirit from India.
+Hi, I am [Jitan Gupta](https://jitangupta.com), a passionate self-taught full-stack engineer with an entrepreneurial spirit from India.
 
 I am also an open-source enthusiast and a community believer. I have learnt a lot from the community and love sharing my knowledge whenever possible through writing articles.
 
