@@ -16,8 +16,6 @@ Hi, I am [Jitan Gupta](https://jitangupta.com), a passionate self-taught full-st
 
 I am also an open-source enthusiast and a community believer. I have learnt a lot from the community and love sharing my knowledge whenever possible through writing articles.
 
-I love to write poetry sometimes. If you found me on stage and people are cheering Ruhan! Ruhan! Ruhan! Don't get confused, it's just my poetic name.
-
 - 💼 want to hire me on your team or need some technical consultant? do reach, [email](mailto:hi@jitangupta.com) :)
 - 💬 ask me about anything, i am happy to help;
 
