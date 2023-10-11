@@ -1,12 +1,4 @@
-### Hello there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-
-<a href="https://www.linkedin.com/in/jitangupta/">
-  <img align="left" alt="Jitan Gupta's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
- 
-<a href="https://twitter.com/jitanguptapage">
-  <img align="left" alt="Jitan Gupta's Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
-</a>
+### Hello there
 
 ![](https://visitor-badge.glitch.me/badge?page_id=jitangupta.jitangupta)
 
