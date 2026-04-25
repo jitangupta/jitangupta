@@ -18,6 +18,11 @@ Intelligent recommendation engine that uses **RAG and probabilistic reasoning** 
 
 `C#` `.NET 8` `Azure OpenAI` `Qdrant` `Docker` `RAG`
 
+#### [PromptMate](https://github.com/jitangupta/PromptMate) — [Chrome Web Store](https://chromewebstore.google.com/detail/promptmate/oknglgpcglngpaobpjndcaaljdchmgai)
+Chrome extension that adds a personal prompt library sidebar to ChatGPT and Claude. Save prompts with tone and format settings, insert them in one click, and sync across devices via Google Drive — no backend server.
+
+`JavaScript` `Chrome Extension` `Google Drive API`
+
 #### [File Safety Guard](https://github.com/jitangupta/file-safety-guard)
 Plugin for Claude Code and Cowork that prevents accidental file deletion, overwrites, and destructive operations. Adds automatic timestamped backups, dry-run planning with approval gates, activity logging, and bulk operation approval — so AI agents can't silently destroy your files.
 
