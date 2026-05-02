@@ -1,25 +1,19 @@
 ### Jitan Gupta
 
-Cloud & Platform Engineer specializing in Azure, Kubernetes, and SaaS modernization.
-
-I help SaaS companies scale their infrastructure and build AI-powered operational tools.
+AI adoption practitioner. Building agent-safety tooling and Claude Code workflows. 10 years platform engineering background.
 
 **Current focus:**
-- Kubernetes infrastructure for multi-tenant platforms
-- RAG-based deployment automation
-- Azure cloud architecture
+- AI agent safety and guardrails (file-safety-guard, MCP tooling)
+- Claude Code workflows and the Cowork ecosystem
+- Teaching engineers practical AI adoption - YouTube (@jitangupta) and team workshops
 
 ---
 
 ### Featured Projects
 
-#### [AI Release Orchestration](https://github.com/jitangupta/ai-release-orchestration)
-Intelligent recommendation engine that uses **RAG and probabilistic reasoning** to determine which tenants in a multi-tenant SaaS platform should upgrade to a new release. Analyzes release content against tenant profiles and generates per-tenant recommendations (MUST / SHOULD / SKIP) with auditable reasoning.
-
-`C#` `.NET 8` `Azure OpenAI` `Qdrant` `Docker` `RAG`
-
 #### [PromptMate](https://github.com/jitangupta/PromptMate) — [Chrome Web Store](https://chromewebstore.google.com/detail/promptmate/oknglgpcglngpaobpjndcaaljdchmgai)
 Chrome extension that adds a personal prompt library sidebar to ChatGPT and Claude. Save prompts with tone and format settings, insert them in one click, and sync across devices via Google Drive — no backend server.
+3+ installs on Chrome Web Store.
 
 `JavaScript` `Chrome Extension` `Google Drive API`
 
@@ -38,6 +32,11 @@ A folder-based workflow engine for Claude Cowork — define your process once in
 
 `Claude Cowork` `Workflow Automation` `CLAUDE.md`
 
+#### [AI Release Orchestration](https://github.com/jitangupta/ai-release-orchestration)
+Intelligent recommendation engine that uses **RAG and probabilistic reasoning** to determine which tenants in a multi-tenant SaaS platform should upgrade to a new release. Analyzes release content against tenant profiles and generates per-tenant recommendations (MUST / SHOULD / SKIP) with auditable reasoning.
+
+`C#` `.NET 8` `Azure OpenAI` `Qdrant` `Docker` `RAG`
+
 ---
 
-📫 [jitangupta.com](https://jitangupta.com) | [@jitangupta](https://youtube.com/@jitangupta)
+📫 [jitangupta.com](https://jitangupta.com) | YouTube [@jitangupta](https://youtube.com/@jitangupta) | LinkedIn [in/jitangupta](https://linkedin.com/in/jitangupta)
