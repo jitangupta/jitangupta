@@ -12,10 +12,14 @@ AI adoption practitioner. Building agent-safety tooling and Claude Code workflow
 ### Featured Projects
 
 #### [PromptMate](https://github.com/jitangupta/PromptMate) — [Chrome Web Store](https://chromewebstore.google.com/detail/promptmate/oknglgpcglngpaobpjndcaaljdchmgai)
-Chrome extension that adds a personal prompt library sidebar to ChatGPT and Claude. Save prompts with tone and format settings, insert them in one click, and sync across devices via Google Drive — no backend server.
-3+ installs on Chrome Web Store.
+Chrome extension that injects a prompt-management sidebar into ChatGPT, Claude, DeepSeek, and Kimi. Compose prompts from a reusable body with tone and output format presets, then insert in one click — no backend server. Tested with an [agent-operated QA harness](https://github.com/jitangupta/promptmate-agent-qa-harness) across all four platforms.
 
 `JavaScript` `Chrome Extension` `Google Drive API`
+
+#### [Agent QA Harness](https://github.com/jitangupta/agent-qa-harness)
+File-based QA harness that lets AI agents test any project in real browser sessions — no test code required. The agent reads a structured runbook, asks 6 questions about your product, generates test cases, runs them, and delivers a development handoff with bugs and UX observations. The [PromptMate Agent QA Harness](https://github.com/jitangupta/promptmate-agent-qa-harness) — 86 test cases across 18 categories — is the worked example in production use.
+
+`Claude Code` `Codex` `Agent QA` `Browser Testing`
 
 #### [File Safety Guard](https://github.com/jitangupta/file-safety-guard)
 Plugin for Claude Code and Cowork that prevents accidental file deletion, overwrites, and destructive operations. Adds automatic timestamped backups, dry-run planning with approval gates, activity logging, and bulk operation approval — so AI agents can't silently destroy your files.
